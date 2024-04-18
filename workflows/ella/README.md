@@ -28,6 +28,12 @@ Comparison table images of ELLA/Combined/SD15/SDXL
 | --- | --- |
 | [<img src="/workflows/ella/comparison/grey-cat/sd15_thumb.png" />](/workflows/ella/comparison/grey-cat/sd15.png) | [<img src="/workflows/ella/comparison/grey-cat/sdxl_thumb.png" />](/workflows/ella/comparison/grey-cat/sdxl.png) |
 
+Extra comparison:
+
+| SD3 | Dall-E |
+| --- | --- |
+| [<img src="/workflows/ella/comparison/grey-cat/sd3_thumb.webp" />](/workflows/ella/comparison/grey-cat/sd3.webp) | [<img src="/workflows/ella/comparison/grey-cat/dalle_thumb.webp" />](/workflows/ella/comparison/grey-cat/dalle.webp) |
+
 `Closeup of a white cat wearing a brown suit, a purple hat, and a red tie, sitting on a green table in a room with big windows viewing over a desert ocean covered by yellow boats`
 
 | ELLA | Combined |
@@ -47,3 +53,7 @@ There seems to be improvement in these prompt tests, but there are also prompt c
 This workflow includes the metadata, you can also download the workflow.json in this directory.
 
 ![Workflow](/workflows/ella/workflow.png)
+
+## Notes
+
+- The SD3 example was provided via https://www.reddit.com/r/StableDiffusion/comments/1c78ltj/comment/l06bome/
