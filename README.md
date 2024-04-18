@@ -1,6 +1,6 @@
 # ComfyUI Workflow collection
 
-While experimenting with ComyUI I'll share some of the workflows in this repository. 
+While experimenting with ComyUI I'll share some of the workflows in this repository.
 In the workflows directory you will find a separate directory containing a `README.md` file with a description of the workflow and a `workflow.png`/`workflow.json` which you can both drop into ComfyUI to import the workflow.
 
 ## Running workflows
@@ -28,3 +28,14 @@ A rough example implementation of the [Comfyui-SAL-VTON](https://github.com/ratu
 Workflow preview: (this image does not contain the workflow metadata !)
 
 ![Workflow](/assets/preview-sal-vton-clothing-swap.png)
+
+### ELLA (ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment)
+
+[Read more](/workflows/ella/README.md)
+
+Workflow preview: (this image does not contain the workflow metadata !)
+
+![Workflow](/assets/preview-ella.png)
+
+Using [ELLA](https://github.com/TencentQQGYLab/ELLA) (ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment) nodes we can apply the ELLA conditioning, but we can also combine the conditioning with regular SD15 checkpoints.
+
