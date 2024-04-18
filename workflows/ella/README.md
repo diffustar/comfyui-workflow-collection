@@ -8,7 +8,7 @@ Comparison workflow and example results with [ELLA (Equip Diffusion Models with 
 
 ## Guide
 
-Using [this node](https://github.com/TencentQQGYLab/ELLA) we can use conditioning through ELLA, but we can also combine the conditioning with regular checkpoints. SDXL (Juggernaut v9) added for another comparison (this one will not use ELLA as SDXL will not be released for ELLA).
+Using [this node](https://github.com/ExponentialML/ComfyUI_ELLA) we can use conditioning through ELLA, but we can also combine the conditioning with regular checkpoints. SDXL (Juggernaut v9) added for another comparison (this one will not use ELLA as SDXL will not be released for ELLA).
 
 The prompts are focused on testing the prompt adherence. The goal is to get the subjects from the prompt but as well as the correct subject colors (for example a red hat, a blue suit, etc). Take a look at the comparison table images to see the differences in colors, subjects, context bleed, etc.
 
