@@ -28,11 +28,15 @@ Comparison table images of ELLA/Combined/SD15/SDXL
 | --- | --- |
 | [<img src="/workflows/ella/comparison/grey-cat/sd15_thumb.png" />](/workflows/ella/comparison/grey-cat/sd15.png) | [<img src="/workflows/ella/comparison/grey-cat/sdxl_thumb.png" />](/workflows/ella/comparison/grey-cat/sdxl.png) |
 
-Extra comparison:
+Extra comparisons:
 
 | SD3 | Dall-E |
 | --- | --- |
 | [<img src="/workflows/ella/comparison/grey-cat/sd3_thumb.webp" />](/workflows/ella/comparison/grey-cat/sd3.webp) | [<img src="/workflows/ella/comparison/grey-cat/dalle_thumb.webp" />](/workflows/ella/comparison/grey-cat/dalle.webp) |
+
+| Midjourney v5 | Midjourney v6 |
+| --- | --- |
+| [<img src="/workflows/ella/comparison/grey-cat/midjourney5.png" />](/workflows/ella/comparison/grey-cat/midjourney5.png) | [<img src="/workflows/ella/comparison/grey-cat/midjourney6.png" />](/workflows/ella/comparison/grey-cat/midjourney6.png) |
 
 `Closeup of a white cat wearing a brown suit, a purple hat, and a red tie, sitting on a green table in a room with big windows viewing over a desert ocean covered by yellow boats`
 
